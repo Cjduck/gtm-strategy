@@ -11,7 +11,8 @@ Fill in the sections below. Every skill reads this file to personalize its outpu
 What do you do? Describe your product or service in 2-3 sentences.
 
 ```
-[Your answer here]
+Tebra is the complete operating system for private practices, combining clinical workflows, billing, payments, patient experience, and growth tools into one platform. With AI-powered charting, automated billing, integrated patient payments, and reputation management, Tebra reduces administrative burden, increases revenue, and elevates patient satisfaction. Practices benefit from one scalable, transparent solution that grows with them, helping them compete in a digital-first market.
+
 ```
 
 **Product type:** [SaaS / Service / Physical product / Marketplace / Other]
@@ -25,12 +26,20 @@ What do you do? Describe your product or service in 2-3 sentences.
 Who is it for? Who would benefit most from your product?
 
 ```
-[Your answer here]
-```
 
-**B2B or B2C:** [B2B / B2C / Both]
-**Company size (if B2B):** [Startup / SMB / Mid-market / Enterprise]
-**Geography:** [Where are your target customers located?]
+Primary Care & Family Medicine
+
+Mental & Behavioral Health
+
+Nurse Practitioners & PAs
+
+Physical Therapy & Rehabilitation
+
+Specialists (OB/GYN, Cardiology, Orthopedics, Dermatology, etc.)
+
+Self-pay, cash-pay, hybrid (Less ideal: virtual only practices)"			
+
+```
 
 ---
 
@@ -39,12 +48,9 @@ Who is it for? Who would benefit most from your product?
 If you could only choose ONE type of customer — who would it be?
 
 ```
-[Your answer here]
+Independent/private healthcare practices (1–29 providers) and billing companies
 ```
 
-**Job title / role (if B2B):**
-**Key characteristics:**
-**Where they hang out online:**
 
 ---
 
@@ -53,11 +59,27 @@ If you could only choose ONE type of customer — who would it be?
 What problem does your product solve? What unique value does it bring to your ICP?
 
 ```
-Problem: [Your answer here]
-Value: [Your answer here]
-```
+Problem:
 
-**Evidence / social proof (if any):**
+Provider burnout drives attrition, contributing to workforce shortages and lost revenue.
+
+Lost revenue from denials and missed payments
+
+Patients frustrated by outdated, cumbersome processes
+
+Practices losing to local competitors with stronger digital presence"
+
+Value:
+
+Providers save 50-70% of charting time
+
+Improved reimbursements and faster collections
+
+Improved online reputation leading to growth
+
+Less manual data entry, unlocking efficiency with one-unified system
+
+```
 
 ---
 
@@ -66,12 +88,10 @@ Value: [Your answer here]
 How do you (or will you) make money?
 
 ```
-[Your answer here]
+Subscriptions, Usage-based
+
 ```
 
-**Pricing model:** [Subscription / One-time / Usage-based / Freemium / Other]
-**Price point:** [Current or planned pricing]
-**How does your price compare to alternatives?**
 
 ---
 
@@ -80,7 +100,9 @@ How do you (or will you) make money?
 Who are the main alternatives your customers consider? (Include direct competitors AND alternative solutions like spreadsheets, agencies, doing nothing, etc.)
 
 ```
-[Your answer here]
+SimplePractice
+Athena Health
+NextGen
 ```
 
 **Your key differentiator:**
@@ -103,7 +125,14 @@ What evidence do you have that this can work? (Users, revenue, waitlist signups,
 Who is working on this? What resources do you have available?
 
 ```
-[Your answer here]
+
+25 team members
+
+Direct Organic Marketing
+Paid/Growth Marketing
+Product Marketing
+Lifecycle Marketing
+
 ```
 
 **Team size:**
@@ -117,8 +146,8 @@ Who is working on this? What resources do you have available?
 What are you trying to achieve in the next 90 days? What constraints should the skills keep in mind?
 
 ```
-90-day goal: [Your answer here]
-Key constraints: [Your answer here]
+90-day goal: Increase Lead Volume through Website; Paid and Brand website
+Key constraints: Decreasing traffic, decreasing page conversion rates
 ```
 
 ---
@@ -141,7 +170,6 @@ How do you want to sound? Any brand guidelines to follow?
 Have you already completed any GTM work? List what exists so skills can build on it rather than start from scratch.
 
 ```
-[Your answer here]
+Customer Interviews, Case Studies, Website experiments across tebra.con
 ```
 
-Examples: "We did 15 customer interviews", "We have a landing page at xyz.com", "We tested pricing with 50 prospects"
